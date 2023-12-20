@@ -1,4 +1,4 @@
-# Different Design patterns in the Software designing in python
+# Different Design patterns in Software Architecture in python
 
 Certainly! Here's a list of various design patterns used in software development:
 
