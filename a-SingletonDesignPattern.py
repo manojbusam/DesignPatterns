@@ -10,13 +10,13 @@ class TicketDispenser:
     _ticket_count = 0
 
     # This gets called everytime the class gets instatiated
-    def __new__(cls, *args, **kwargs):
+    def __new__(self):
         # Check if the class doesn't have an instance yet
-        if cls._instance is None:
+        if self._instance is None:
             # Create a new instance if it doesn't exist
-            cls._instance = super().__new__(cls)
+            self._instance = super().__new__(self)
         # Return the instance (either the existing or newly created one)
-        return cls._instance
+        return self._instance
 
 
     def get_ticket(self):
