@@ -9,9 +9,7 @@ Certainly! Here's a list of various design patterns used in software development
 
 2. **Factory Method Pattern:** Defines an interface for creating an object but lets subclasses decide which class to instantiate. Here is an example of ICeCream Vending MAchine built using the Factory Method Design Pattern.
 
-![Screenshot 2023-12-20 at 10 18 04 PM](https://github.com/manojbusam/DesignPatterns/assets/44409170/a95d3625-2f0c-48c9-b535-e803cd874428)
-
-
+![Screenshot 2023-12-20 at 10 21 49 PM](https://github.com/manojbusam/DesignPatterns/assets/44409170/818cd720-817c-4883-aa24-98f0cacb1a97)
 
 3. **Abstract Factory Pattern:** Provides an interface to create families of related or dependent objects without specifying their concrete classes.
 4. **Builder Pattern:** Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
