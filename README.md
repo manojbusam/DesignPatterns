@@ -1,7 +1,5 @@
 # Different Design patterns in Software Architecture Implementation using Python
 
-Certainly! Here's a list of various design patterns used in software development:
-
 ### Creational Design Patterns:
 1. **Singleton Pattern:** Ensures a class has only one instance and provides a global point of access to it. Here is an example of a Ticket Dispensing Machine designed with a Singleton Design Pattern.
 
