@@ -3,9 +3,15 @@
 Certainly! Here's a list of various design patterns used in software development:
 
 ### Creational Design Patterns:
-1. **Singleton Pattern:** Ensures a class has only one instance and provides a global point of access to it. ![Screenshot 2023-12-20 at 9 39 42 PM](https://github.com/manojbusam/DesignPatterns/assets/44409170/f4e9f89d-6dfd-468d-b137-cdca8ba0e018)
+1. **Singleton Pattern:** Ensures a class has only one instance and provides a global point of access to it. Here is an example of a Ticket Dispensing Machine designed with a Singleton Design Pattern.
 
-2. **Factory Method Pattern:** Defines an interface for creating an object, but lets subclasses decide which class to instantiate.
+![Screenshot 2023-12-20 at 9 39 42 PM](https://github.com/manojbusam/DesignPatterns/assets/44409170/f4e9f89d-6dfd-468d-b137-cdca8ba0e018)
+
+2. **Factory Method Pattern:** Defines an interface for creating an object but lets subclasses decide which class to instantiate. Here is an example of ICeCream Vending MAchine built using the Factory Method Design Pattern.
+
+![Screenshot 2023-12-20 at 10 01 46 PM](https://github.com/manojbusam/DesignPatterns/assets/44409170/2833a403-6eee-4fa8-8861-74cd8c46250a)
+
+
 3. **Abstract Factory Pattern:** Provides an interface to create families of related or dependent objects without specifying their concrete classes.
 4. **Builder Pattern:** Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
 5. **Prototype Pattern:** Creates new objects by copying an existing object, known as the prototype, through cloning.
