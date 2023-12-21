@@ -3,7 +3,8 @@
 Certainly! Here's a list of various design patterns used in software development:
 
 ### Creational Design Patterns:
-1. **Singleton Pattern:** Ensures a class has only one instance and provides a global point of access to it. %3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22get_ticket%22%20style%3D%22text%3BwhiteSpace%3Dwrap%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22160%22%20y%3D%22360%22%20width%3D%22170%22%20height%3D%2240%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E
+1. **Singleton Pattern:** Ensures a class has only one instance and provides a global point of access to it. ![Screenshot 2023-12-20 at 9 39 42 PM](https://github.com/manojbusam/DesignPatterns/assets/44409170/f4e9f89d-6dfd-468d-b137-cdca8ba0e018)
+
 2. **Factory Method Pattern:** Defines an interface for creating an object, but lets subclasses decide which class to instantiate.
 3. **Abstract Factory Pattern:** Provides an interface to create families of related or dependent objects without specifying their concrete classes.
 4. **Builder Pattern:** Separates the construction of a complex object from its representation, allowing the same construction process to create different representations.
