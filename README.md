@@ -1,5 +1,16 @@
 # Different Design patterns in Software Architecture Implementation using Python
 
+## Design Patterns in Software Architecture using Python
+
+### Available Design Patterns
+
+[![Singleton Pattern](https://img.shields.io/badge/Singleton-Pattern-blue)](https://www.python.org/downloads/)
+[![Factory Method Pattern](https://img.shields.io/badge/Factory_Method-Pattern-orange)](https://www.python.org/downloads/)
+[![Observer Pattern](https://img.shields.io/badge/Observer-Pattern-yellow)](https://www.python.org/downloads/)
+[![Decorator Pattern](https://img.shields.io/badge/Decorator-Pattern-green)](https://www.python.org/downloads/)
+[![Command Pattern](https://img.shields.io/badge/Command-Pattern-red)](https://www.python.org/downloads/)
+
+
 ### Creational Design Patterns:
 1. **Singleton Pattern:** Ensures a class has only one instance and provides a global point of access to it. Here is an example of a Ticket Dispensing Machine designed with a Singleton Design Pattern.
 
